@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Server_Logic.ChatClient">
+    <Position X="5.25" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>ChatClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Server_Logic.Server">
+    <Position X="1.75" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AQQIAAAASCAiAAQwESFCQAQAKIAEAAoAAAAAFAAAEoA=</HashCode>
+      <FileName>Server.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

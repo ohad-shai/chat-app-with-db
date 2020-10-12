@@ -1,0 +1,11 @@
+C:\Users\Ohad\Desktop\OhadsChat-WithDB\Server Common\bin\Debug\Server Common.dll
+C:\Users\Ohad\Desktop\OhadsChat-WithDB\Server Common\bin\Debug\Server Common.pdb
+C:\Users\Ohad\Desktop\OhadsChat-WithDB\Server Common\obj\Debug\Server Common.csprojResolveAssemblyReference.cache
+C:\Users\Ohad\Desktop\OhadsChat-WithDB\Server Common\obj\Debug\Server Common.dll
+C:\Users\Ohad\Desktop\OhadsChat-WithDB\Server Common\obj\Debug\Server Common.pdb
+C:\Users\Ohad\Desktop\+++ John Bryce .NET Projects +++\Chat with Database (ADO.NET)\OhadsChat-WithDB\Server Common\bin\Debug\Server Common.dll
+C:\Users\Ohad\Desktop\+++ John Bryce .NET Projects +++\Chat with Database (ADO.NET)\OhadsChat-WithDB\Server Common\bin\Debug\Server Common.pdb
+C:\Users\Ohad\Desktop\+++ John Bryce .NET Projects +++\Chat with Database (ADO.NET)\OhadsChat-WithDB\Server Common\obj\Debug\Server Common.csprojAssemblyReference.cache
+C:\Users\Ohad\Desktop\+++ John Bryce .NET Projects +++\Chat with Database (ADO.NET)\OhadsChat-WithDB\Server Common\obj\Debug\Server Common.csproj.CoreCompileInputs.cache
+C:\Users\Ohad\Desktop\+++ John Bryce .NET Projects +++\Chat with Database (ADO.NET)\OhadsChat-WithDB\Server Common\obj\Debug\Server Common.dll
+C:\Users\Ohad\Desktop\+++ John Bryce .NET Projects +++\Chat with Database (ADO.NET)\OhadsChat-WithDB\Server Common\obj\Debug\Server Common.pdb

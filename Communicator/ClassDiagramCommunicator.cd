@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Communicator.ChatMessage">
+    <Position X="1.25" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAACAABAAAQAACAAIAAA=</HashCode>
+      <FileName>ChatMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Communicator.User">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Communicator.MessageType">
+    <Position X="1.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAQAAAAQAAAAACAAAAEAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>MessageType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

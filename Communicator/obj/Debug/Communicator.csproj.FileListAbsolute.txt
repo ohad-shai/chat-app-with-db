@@ -1,0 +1,41 @@
+C:\Users\Ohad\Desktop\OhadsChat\Communicator\bin\Debug\Communicator.dll
+C:\Users\Ohad\Desktop\OhadsChat\Communicator\bin\Debug\Communicator.pdb
+C:\Users\Ohad\Desktop\OhadsChat\Communicator\obj\Debug\Communicator.csprojResolveAssemblyReference.cache
+C:\Users\Ohad\Desktop\OhadsChat\Communicator\obj\Debug\Communicator.dll
+C:\Users\Ohad\Desktop\OhadsChat\Communicator\obj\Debug\Communicator.pdb
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Communicator\bin\Debug\Communicator.dll
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Communicator\bin\Debug\Communicator.pdb
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Communicator\obj\Debug\Communicator.csprojResolveAssemblyReference.cache
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Communicator\obj\Debug\Communicator.dll
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Communicator\obj\Debug\Communicator.pdb
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Communicator\bin\Debug\Communicator.dll
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Communicator\bin\Debug\Communicator.pdb
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Communicator\obj\Debug\Communicator.csprojResolveAssemblyReference.cache
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Communicator\obj\Debug\Communicator.dll
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Communicator\obj\Debug\Communicator.pdb
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Communicator\bin\Debug\Communicator.dll
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Communicator\bin\Debug\Communicator.pdb
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Communicator\obj\Debug\Communicator.csprojResolveAssemblyReference.cache
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Communicator\obj\Debug\Communicator.dll
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Communicator\obj\Debug\Communicator.pdb
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Communicator\bin\Debug\Communicator.dll
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Communicator\bin\Debug\Communicator.pdb
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Communicator\obj\Debug\Communicator.csprojResolveAssemblyReference.cache
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Communicator\obj\Debug\Communicator.dll
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Communicator\obj\Debug\Communicator.pdb
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Communicator\bin\Debug\Communicator.dll
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Communicator\bin\Debug\Communicator.pdb
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Communicator\obj\Debug\Communicator.csprojResolveAssemblyReference.cache
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Communicator\obj\Debug\Communicator.dll
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Communicator\obj\Debug\Communicator.pdb
+C:\Users\Ohad\Desktop\OhadsChat-WithDB\Communicator\bin\Debug\Communicator.dll
+C:\Users\Ohad\Desktop\OhadsChat-WithDB\Communicator\bin\Debug\Communicator.pdb
+C:\Users\Ohad\Desktop\OhadsChat-WithDB\Communicator\obj\Debug\Communicator.csprojResolveAssemblyReference.cache
+C:\Users\Ohad\Desktop\OhadsChat-WithDB\Communicator\obj\Debug\Communicator.dll
+C:\Users\Ohad\Desktop\OhadsChat-WithDB\Communicator\obj\Debug\Communicator.pdb
+C:\Users\Ohad\Desktop\+++ John Bryce .NET Projects +++\Chat with Database (ADO.NET)\OhadsChat-WithDB\Communicator\bin\Debug\Communicator.dll
+C:\Users\Ohad\Desktop\+++ John Bryce .NET Projects +++\Chat with Database (ADO.NET)\OhadsChat-WithDB\Communicator\bin\Debug\Communicator.pdb
+C:\Users\Ohad\Desktop\+++ John Bryce .NET Projects +++\Chat with Database (ADO.NET)\OhadsChat-WithDB\Communicator\obj\Debug\Communicator.csprojAssemblyReference.cache
+C:\Users\Ohad\Desktop\+++ John Bryce .NET Projects +++\Chat with Database (ADO.NET)\OhadsChat-WithDB\Communicator\obj\Debug\Communicator.csproj.CoreCompileInputs.cache
+C:\Users\Ohad\Desktop\+++ John Bryce .NET Projects +++\Chat with Database (ADO.NET)\OhadsChat-WithDB\Communicator\obj\Debug\Communicator.dll
+C:\Users\Ohad\Desktop\+++ John Bryce .NET Projects +++\Chat with Database (ADO.NET)\OhadsChat-WithDB\Communicator\obj\Debug\Communicator.pdb

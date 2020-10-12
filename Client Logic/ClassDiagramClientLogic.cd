@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Client_Logic.Client">
+    <Position X="3.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QQQBAAAAQCAkAABAUCACEIAILIAMAAAAAAEIFACAEwA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.263" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
